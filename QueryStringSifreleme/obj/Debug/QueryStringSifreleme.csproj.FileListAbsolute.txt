@@ -1,0 +1,7 @@
+C:\Users\BT-HYALITEKIN\source\repos\QueryStringSifreleme\QueryStringSifreleme\obj\Debug\QueryStringSifreleme.csprojAssemblyReference.cache
+C:\Users\BT-HYALITEKIN\source\repos\QueryStringSifreleme\QueryStringSifreleme\obj\Debug\QueryStringSifreleme.csproj.CoreCompileInputs.cache
+C:\Users\BT-HYALITEKIN\source\repos\QueryStringSifreleme\QueryStringSifreleme\bin\Debug\QueryStringSifreleme.exe.config
+C:\Users\BT-HYALITEKIN\source\repos\QueryStringSifreleme\QueryStringSifreleme\bin\Debug\QueryStringSifreleme.exe
+C:\Users\BT-HYALITEKIN\source\repos\QueryStringSifreleme\QueryStringSifreleme\bin\Debug\QueryStringSifreleme.pdb
+C:\Users\BT-HYALITEKIN\source\repos\QueryStringSifreleme\QueryStringSifreleme\obj\Debug\QueryStringSifreleme.exe
+C:\Users\BT-HYALITEKIN\source\repos\QueryStringSifreleme\QueryStringSifreleme\obj\Debug\QueryStringSifreleme.pdb
